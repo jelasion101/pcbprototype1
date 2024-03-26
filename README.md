@@ -1,4 +1,4 @@
-Uses footprints originally created by Joe Scotto https://github.com/joe-scotto/, find original footprints at https://github.com/joe-scotto/scottokeebs
+Uses footprints sourced from Joe Scotto https://github.com/joe-scotto/, find sourced footprints at https://github.com/joe-scotto/scottokeebs
 
 jelaskeyboard.kicad_pcb: KICAD PCB Design
 
